@@ -39,6 +39,7 @@ the Shop frame** — those products do not exist and inventing them breaks
 | File | Source | Note |
 | --- | --- | --- |
 | `Assets/Deck Edits/twinsmatic-press-square.jpg` | Official **Apple Music artist image**, 2000x2000 (`AMCArtistImages211/.../e508c75a-a9b7-8028-4970-a2cf59d05492`) | b/w press shot, hand across face. Avatar + Fanverse portrait. |
+| `Assets/Deck Edits/Twinsmatic 1st photo.png` | Official **Sony Music Entertainment France** artist photo (confirmed by Laura 2026-11-11) | b/w, Chrome Hearts cap, horns. s1 hero + superfans hero. |
 | `Assets/Deck Edits/twinsmatic-livecard.jpg` | `twinsmatic-press-square.jpg`, cropped 16:9 to 1920x1080 | regenerated 2026-11-11; the previous version was built from a photo that was not him |
 
 **He always obscures his face** — hand on the press shot, hand again on the
