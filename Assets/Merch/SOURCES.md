@@ -39,8 +39,8 @@ the Shop frame** — those products do not exist and inventing them breaks
 | File | Source | Note |
 | --- | --- | --- |
 | `Assets/Deck Edits/twinsmatic-press-square.jpg` | Official **Apple Music artist image**, 2000x2000 (`AMCArtistImages211/.../e508c75a-a9b7-8028-4970-a2cf59d05492`) | b/w press shot, hand across face. Avatar + Fanverse portrait. |
-| `Assets/Deck Edits/twinsmatic-livecard.jpg` | `Group 1171275387.png` (the deck's own s1 hero), letterboxed to 1920x1080 on white | the studio background is white, so the pad is seamless |
+| `Assets/Deck Edits/twinsmatic-livecard.jpg` | `twinsmatic-press-square.jpg`, cropped 16:9 to 1920x1080 | regenerated 2026-11-11; the previous version was built from a photo that was not him |
 
-**He always obscures his face** — hand on the press shot, beanie over the eyes
-on the studio shot, hand again on the old b/w avatar. It is his visual identity,
+**He always obscures his face** — hand on the press shot, hand again on the
+old b/w avatar. It is his visual identity,
 not a sourcing problem. Don't go looking for a clear face shot.
